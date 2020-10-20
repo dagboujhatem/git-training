@@ -1,0 +1,16 @@
+ul{list-style-image:lamia.jpg;
+}
+
+ul{
+	list-style-type: none ;
+	margin:0px ;
+	padding:5px ;
+	background-color: pink  ;
+	overflow: hidden;
+}
+li{ float: center ; } 
+
+ol {list-style-type: upper-roman;
+     margin:0px ;
+     padding:10px ;
+    background-color:green; }
